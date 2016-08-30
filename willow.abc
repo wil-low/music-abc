@@ -1,0 +1,737 @@
+I:abc-charset utf-8
+
+X:1
+T:The Sailor And The Maid
+% A harp
+R:reel
+M:4/4
+L:1/8
+K:Cmaj
+Q:1/4=160%160
+AG|:ADDC DEFG|A2FA G2FG|ADDC DEFG|AFcA GFFG|
+ADDC DEFG|A2FA G2AB|cBAG AGEC|DEGE D2AG:|
+|:CDDC D3E|FEGE FEDC|G,CCG, C3D|ECGE FEDC|
+CDDC D3E|FEGE FED2|CDDC DEFG|AFGE F4:|
+|:A2AB AGED|EGAB cBAG|A2AB AGED|EGEG D2EG|
+A2AB AGED|EGAB c3d|edce dcAB|cAGE DDEG:| 
+
+X: 2
+T:UA Anthem
+R:anthem
+M:C
+L:1/8
+K:C
+Q:1/4=120
+!f! e3 e (ede) f | g3 f e2 d2 | Lc2 Le2 LB2 Le2 | (A^GAB c2) d2 |
+e3 e (ede) f | g3 f e2 d2 | c2 A2 e3 ^G | A4 A z2 |
+!mf! B3 B (edc) B (ABc) A B2 B2 | !f! c3 c d2 d2 | e4 e2 z2|
+B3 B (edc) B (ABc) A B2 B2 | Lc2 Le2 LB2 Le2 | (ABcd e2) f2 |
+|: !ff! g3 ^f g2 e2 | d2 d2 (g=fe) d | c2 c2 d2 d2| (e3 d cde) f|
+g3 ^f g2 e2 | d2 d2 (g=fe) d | c2 A2 e3 ^G| A4 A2 z2 :|
+
+X:3
+T:Scarborough Fair
+C:
+M:3/4
+L:1/4
+K:Dmaj
+Q:1/4=160
+E2 E | B3/2 A/ B | F> G F | E3|-E B d | e2 d | B c A | B3- |B z B | 
+e2 e | d2 B | B A G | F D2 | E2 B | A2 G | F E D | E3- | E |
+
+X: 4
+T: The Kesh Jig
+N: page 1
+N: hexatonic
+N: matches 161
+R: jig
+M: 6/8
+L: 1/8
+Q:1/4=150
+K: G
+D | "G"G2 G GAB | "D"A2 A ABd | "G"edd gdd | "Em"edB "G"dBA  |\
+G2 G GAB |"D"A2 A ABd | "G"edd gdB | "D"AGF "G"G2 ::
+A |"G"B2 B dBd | ege "G"dBG | B2 B dBG | "D"ABA AGA  |\
+"G"B2 B dBd| "Em"ege "G"dBd | gfg "D"aga | "G"bgf g2 :|
+
+X:5
+T:Misto
+C:ONUKA
+M:4/4
+L:1/8
+K:C
+Q:1/4=120
+z2 A2 e2 dg | e6 dc | B/c/ B4-BAG | A6 Gc |
+   A4 e2 da | e6 dc | B/c/ B4-BAG | A6 |
+
+X:6
+T:Pure and Simple
+C:Brandon Power
+M:4/4
+L:1/8
+K:G
+Q:1/4=180
+|: gf ed e2 dB | A2 BA GA Bd | gf ed e2 dB | A2 BA G3 z :|
+|: AB cd e2 dB | c2 BG A2 BG | AB cd e2 dB | c2 BG A2 G z :|
+
+X:7
+T:Emmanuelle
+C:Fausto Papetti
+M:6/4
+L:1/8
+K:C
+Q:1/4=120
+edc edc edc edc | f8 |
+|1 BBBB e2 Bc-|c8 :|2 BBBB e2 BA-|A8-|A4 |]
+|: (3e2d2e2 | f8-|f4 (3b2c'2d'2 | e8-| e4 |
+(3c2B2A2 | d6 d_e-| e4 (3c2B2A2 | =e8-|e4 :|   
+
+X:8
+T:A. A. Cameron's
+K:D
+e<A A2 B>G d>B|e<A A2 d>g (3fed|e<A A2 B>G d>B|B<G G>B d>g (3fed:|
+B<e e>f g>e a>f|B<e e>f g>e (3fed|B<e e>f g>e a>f|d<B G>B d>g (3fed:|
+
+X:9
+T:Warriors
+R:jig
+M:6/8
+L:1/8
+K:Cmaj
+Q:1/4=180
+A,3 C2 A, |B,2 C B,2 A, |CB,A, B,2 C |A,6 |
+A,3 C2 A, |B,2 C B,2 A, |CB,A, B,2 C |E4-E E |
+C2 E A,2 E |C2 E A,2 E |CB,A, E2 A, |F2 A, E2 A, |
+FED E2 C |D2 E F2 G |A2 B A2 G |E6 |] 
+
+X: 10
+T: Cry Of The Celts
+R: slip jig
+M: 9/8
+L: 1/8
+K: Cmaj
+EAA AGA A3|EAA AGA EGD|EAA AGA A2B|c3 cBA BAG|
+EAA AGA A3|EAA AGA EGD|EAA AGA A2B|c3 cBc dec|
+f3 fed edc|Add dcd AcG|A2f fed edc|d3 def gec|
+f3 fed edc|Add dcd AcG|A2f fed edc|d3 def edc| 
+
+X: 11
+T: Riverdance
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+Q:1/4=180
+||:LEBA LFG/2F/2G|[M:4/4] LFELDE LFDLB,D|[M:6/8]LEFG LAB/2A/2B|[M:4/4]LAGLFG LFGLAB|
+[M:6/8]LcBA LcBA|[M:4/4]LBALGF LGALGF|[M:12/8]LE^cA LEdB LE^cA LEdE|[M:2/4]LBA GA:||
+||:[M:6/8]LBDD LBDD|[M:4/4]LcELcE LcELcE|[M:6/8]LBDD LBDD|[M:4/4]LcELcE LcELcE|
+[M:6/8]LBAG LFA/2G/2F|[M:4/4]LEFGA LBAGF|[M:12/8]LAFD LBGE LAFD LBGF|[M:2/4]LFG AB:||
+||:LEBA LFG/2F/2G|[M:4/4] LFELDE LFDLB,D|[M:6/8]LEFG LAB/2A/2B|[M:4/4]LAGLFG LFGLAB|
+[M:6/8]LcBA LcBA|[M:4/4]LBALGF LGALGF|[M:12/8]LE^cA LEdB LE^cA LEdB|[M:2/4]LBA GA:||
+||:[M:6/8]LBDD LBDD|[M:4/4]LcELcE LcELcE|[M:6/8]LBDD LBDD|[M:4/4]LcELcE LcELcE|
+[M:6/8]LBAG LFA/2G/2F|[M:4/4]LEFGA LBAGF|[M:12/8]LAFD LBGE LAFD LBGF|[M:2/4]LFG AB:||
+|[M:12/8]e12-|e12|e12-|e12|
+||:[M:6/8]LEBA LFG/2F/2G|LFED LEFD|LB,DE LFGA|LBBA LGFG|
+LFGA LBcB|LAcB LAGA|LGFG LAGF|LE^cA LEdB:||
+||:LBDD LBDD| LcELc ELcE|LBDD LBDD| LcELc ELcE|
+LcBA LGA/2G/2F|LEFG LABD|LCGG LCGG|LDEF LGAc:||
+||:LEBA LFG/2F/2G|LFED LEFD|LB,DE LFGA|LB/2A/2BA LGFG|
+LFGA LBcB|LAcB LAGA|LGFG LAGF|LE^cA LEdB:||
+||:LBDD LBDD| LcELc ELcE|LBDD LBDD| LcELc ELcE|
+LcBA LGA/2G/2F|LEFG LABD|LCDG LCDG|LDEF LGAc:||
+|[M:12/8]LBBB BBB LBBB BBB|LeeLe eLee Leee eee|
+LbbLb bLbb Lbbb bbb|Le'e'e' Le'e'e' Le'2 zz3|| 
+
+X:12
+T:Lambada
+C:
+M:4/4
+L:1/8
+K:C clef=treble-8
+|: z4 z2 E2 | e3 d cB A2 | Ac BA GA ED | E6 
+E2 | e3 d cB A2 | Ac BA GA ED | E8 |
+dd dc F2 Ac | e2 dc F2 Ac | B2 AG GG AG | A8 |
+d2 dc F2 FA | e2 dc F2 Ac | B2 AG GG AG | cB A6 :|
+
+X:13
+T:Lonesome Shepherd
+M:4/4
+L:1/8
+K:Em
+B/A/ B3-B4- | B8 | z8 | B/A/ B3-B4- | B8 | z8 |
+zE EF FG GB | e/2d/2 e3- e2 z2 | d/2c/2 d3- d2 zA | B8 |
+zE EF FG GB | e/2d/2 e3- e2 z2 | d/2c/2 d3- d2 zA | B6 zB |
+AG G4 e2 | dc c4 A2 | GF F4 d2 | cB B4 B2 |
+AG G4 g2 | fe e4 e2 | ed A4 A2 | {BA}HB8 |]
+
+X:14
+T:Suo-Gan (Welsh Lullaby)
+C:Traditional
+M:4/4
+L:1/4
+K:G
+GABB | AGBA | GABB | ABG2 :|
+
+X:15
+T:It's Raining
+C:Traditional
+M:4/4
+L:1/4
+K:C
+G | G2 EA | G2 EE | G2 EA | G2 E z |
+GGE E/A/ | GGE E/A/ | G/G/ G E E/A/ | G2 E |]
+
+X:16
+T:Counting Song
+C:Traditional
+M:4/4
+L:1/4
+K:G
+|: D/D/ | G G/G/ G D/D/ | G/G/ GG d | B2 Gd |
+B2 G D/D/ | G G G/G/ D | GGG :| 
+D/D/ | G G/G/ G D/D/ | G/G/ G G G | G zz ||
+
+X:17
+T:Old McDonald
+C:Traditional
+R:Polka
+M:4/4
+L:1/4
+K:G
+GGGD | EED2 | BBAA | G2 z !fine! || D |
+GGGD | EED2 | BBAA | G2 z D/D/ |
+GGGE/E/ | GGG2 | G/G/G G/G/G | G/G/ G/G/ GG !D.C.!:|
+
+X:18
+T:Loch Lomond
+R:reel
+M:4/4
+L:1/8
+Q:1/4=90
+K:Dmaj
+EF|A2 AB c2 cB|A2 AF E2 EF|B2 BB B2 ce|f4 e4|
+f2 fe c2 ce|dc BA F2 EF|A2 ce f2 ec|B4 A4|| 
+
+X:19
+T:Eleanor Plunkett
+% G harp
+R:waltz
+M:3/4
+L:1/8
+K:Cmaj
+Q:1/4=80
+CD|"C"E2 E2 DC|"C/E"C2 C2 dc|"F"A2 A2 AG|"Am"E4 DC |"Dm7"A,2 D2 DE|"G"D4 cd|
+"Am"e2 dc AG|"F"A4 AB|"Am"c2 c2 e2|"G"d2 ed cB|"Am"c2 dc BA|
+"C"G2 E3 G|"F"A2 c2 C2|"C"E4 DC|"Dm7"A,2 D2 DE|"G"D4|| 
+
+X:20
+T:Hungarian
+C:Reelroad
+M:4/4
+L:1/8
+Q:1/4=180
+K:G
+|: EBAB GFE2 | EBAB G2FE | EBAB GFE2 | EBAB E2E2 :|
+|: GEGE AA F2 | GEGE GFED | GEGE AA F2 | FAGF E2E2 :| 
+
+X: 21
+T: Sí Bheag Sí Mhór
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+de |: f3e d2 | d2 de d2 |B4 A2 | F4 A2 | BA Bc d2 | e4 de| f2 f2 e2 |
+d4 f2 | B4 e2 | A4 d2 | F4 E2 | D4 e2 | B4 e2 | A4 dc | d6 | d4 de :|
+|: f2 fe d2 | ed ef a2 | b4 a2 | f4 ed | e4 a2 | f4 e2 | d4 B2 | A4 BA |
+F4 E2 | D4 f2|B4 e2 | A4 a2| ba gf ed | e4 dc | d6 |1 d4 de:|2 d6 || 
+
+X:22
+T:Herr Mannelig
+% G harp
+R:waltz
+M:4/4
+L:1/8
+Q:1/4=132
+K:Cmaj
+E | EFED C2 A,B, | CDCB, A,2 A,B, | C2 CC D2 CD | E4 C3
+E | EFED C2 A,B, | CDCB, A,2 A,B, | C4 D>DCD | E4 C3
+E | EFED CC A,B, | CDCB, A,2 A,B, | C4 D2CD | E4 G2 z
+E | EFED C2 A,B, | CDCB, A,2 A,B, | CD DC/2B,/2 | A,4 z3 :|
+
+X: 23
+T: Trip To Skye
+C: John Whelan
+R: waltz
+M: 3/4
+L: 1/8
+Q:1/4=90
+K: C
+|: e2 dc BA | Bd GA Bd | c2 Bd cB | c2 A2A2 |
+e2 dc BA | Bd GA Bd | c2 Bd cB | AG ED EG :|
+|: E2 AB c2 | E2 AB c2 | Bd GA Bd | cB AG ED |
+|E2 AB c2 | E2 AB c2 | Bd GA Bd | c2 A2A2 :|
+
+X:24
+T:Eagle's Whistle, The
+Z:www.antplat.ru
+M:3/2
+L:1/4
+Q:1/4=180
+K:C
+|:E2 G> EDC| E2 G> EDC|D2 D> EDC|D2 D> EDC|
+E2 G> EDC| E2 G> EDE|C2 C> EDE|C2 C> EDC:|
+|:A2 GAcG|A2G>EDC|D2 D> EDC|D2 D> EDC|
+A2 GAcG|A2G>EDC|C2 C> EDE|C2 C> EDC:|
+
+X:25
+T:Grisha The Black Cat
+M:4/4
+R:Reel
+L:1/8
+K:Edor
+|:ed|"Em"~B3A GEDE|GABG "A"A2 BD| "Em"~E3 D EDBA|GE (3GAB "D"A2ed|
+"Em"~B3A GEDE|GABG "A"A2 Be|"D"dBAF "Bm"D2 z2|"D"EGBd "Em"e2:|
+|:"Em"gebg ageB|dega e2dA|"Bm"~B3A Bded|gegb"D"a2de|
+"Em"gebg agde|"G"(3gbg (3age d2 Be|"D"dBAF "Bm"D2 z2|"D"EGBd "Em"e4:|
+
+X:26
+T:Falcon's Whistle
+M:4/4
+L:1/8
+K:D
+|:e2 A2 ed Bg|f2e4 Bd|e2 A2 dBAG|E2 G6|e2 A2 ed Bg|f2e4 Bd|e2 A2 dBAG|E2 A6:|
+|:a2 ea g2 ed|BA G2 E4|e2 A2 dBAG|E2 G6|a2 ea g2 ed|BA G2 E4|e2 A2 dBAG|E2 A6:|
+
+X:27
+T:Ne Tyanee Kota Za Hvost (simple version)
+T:(Don't pull cat's tail)
+M:4/4
+L:1/8
+R:Polka
+Q:150
+K:Edor
+|:EG EG EGA2|AG FE GA B2|EG EG EGA2|AG FE DF E2:|
+|:BGA2 AFG2|A cBAGFED|BGA2 AFG2|EG FE DF E2:|
+
+X:28
+T: Funny Whistle, The
+M: 4/4
+L: 1/8
+R: reel
+K:Bmin
+dc |: BF(3FFF dedc | BF(3FFF fedc | BF(3FFF Bcde | fgfd c2 dc |
+BF(3FFF dF(3FFF | eF(3FFF f3 d | efec dedB |1 ABcA F2 dc :|2 ABcA F2 DE ||
+|: Fdcd Bdcd | edce fBAB | Fdcd Bcde | fgfd c2 dc |
+BF(3FFF dF(3FFF | eF(3FFF f3 d | efec dedB |1 ABcA F2 DE :|2 ABcA F2 dc ||
+
+X:29
+T:The Foggy Dew
+C:Irish Trad.
+M:4/4
+K:Em
+Bd || e2 dB | e2 dB | A2B2 | D2 EF |GB AG | E2D2 |E4-|E2 Bd|
+e2 dB | e2 dB | A2 B2 |D2 EF|GB AG | E2D2 |E4-|E2 F2|
+G2B2 | d2 cB | A2A2 |B2 GA|B2 gf | ed Bd | e4-|e2 Bd|
+e2 dB | e2 dB | A2 B2 |D2 EF|GB AG | E2E2 | E4||
+
+X:30
+T:Boolavogue
+T:simple version
+C:Traditional
+B:Ireland's Best TIN WHISTLE TUNES compiled by Clare McKenna
+Z:antplat.ru
+R:Air
+M:3/4
+L:1/4
+K:G
+D|G2 D|G2 B/2d/2|g2 f|e g>e|d2e|B2A/2G/2|A2 G|E2F|
+G2D|G2 B/2d/2|g2f|eg>e|d2 e|B2 A/2G/2|A2 G|G2d|
+d2 B|d2e/2f/2|g2f|eg>e|d2 e|B2A/2G/2|A2G|E2F|
+G2D|G2B/2d/2|g2f|eg>e|d2e|B2A/2G/2|A2G|G2|]
+
+X:31
+T:Tasty borsch by my darling. Air
+C:antplat.ru
+R:Air
+M:3/4
+L:1/8
+Q:70
+K:G
+DG|:"Am"A3DGA|"G"B3AGD|1 "Am"E3DEG|"D"A4DG:|2 "Am"E4DE|"G"D4dg|
+|:"D"a3dga|"Em"b3agd|1 "C"e3deg|"D"a4dg:|2 "C"e4de|"D"d4||
+
+X:32
+T:Ostap's Air
+C:www.antplat.ru
+R:Air
+M:3/4
+L:1/8
+Q:50
+K:D
+|:DE|F2A2FA|B2 +breath+d2de|f2e2dA|+breath+B4dB|
+F2A2FA|B2 +breath+d2de|f2dA ef|+breath+d4:|
+
+X:33
+T:Cat in the Kitchen
+% Nottingham Music Database
+S:Bob McQuillen Jan 1975, via Phil Rowe
+M:6/8
+K:Bm
+F|"Bm"B2c dcB|"Em"e2f gfe|"Bm"fbb bag|"F#7"fgf edc|
+"Bm"B2c dcB|"Em"e2f gfe|"Bm"fgf "F#7"edc|"Bm"dBB B:|
+|:"A7"AG|"D"F2B "A7"ABc|"D"d2d "A"ede|"Bm"fBB Bcd|"A"cAA "G"BAG|
+"F#m"F2B "A7"ABc|"D"dcd "A"ede|"Bm"fed "F#m"cBA|"Bm"FBB B:|
+
+X:34
+T:Cercle Circassien
+O:France
+M:6/8
+L:1/8
+Q:3/8=130
+K:C
+"Am"E2 A A2 "G"G | "Am"E2 E "G"DCD | "Am"E2 AA2 B | "F"cAc "G" BGB |\
+"Am"E2 A A2 "G"G | "Am"E2 E "G"DCD | "Am"EAB "F"cdc | "G"BcB "Am"A3 :|
+|:"Am"e2 e efe | "G" dcB "F"A2 B | cAA ABc | "G"dBB Bcd |\
+"Am"e2 e efe | "G" dcB "F"A2 B | cdc "G"BcB | "Am"A2 A A3 :|
+
+X:13a
+T:Gervaise8
+C:Claude Gervaise
+M:4/4
+L:1/8
+Z:Andy Hornby
+K:C
+B3A G2d2|c2B2A2G2|GA B2A2G2|GA B2GA B2|
+GA B2A2G2|B3A G2d2|c2B2A2G2|G2^F2G4:|
+|:d4e3d|c2B2A2G2|GA B2A2G2|GA B2GA B2|
+GA B2A2G2|d4e3d|c2B2A2G2|G2^F2G4:|
+
+X:35
+T:Vals från Jeppo - "Viktors vals"
+S:(efter Viktor Andersson)
+N:Efter Viktor Andersson, Jeppo
+A:Jeppo (Österbotten)
+O:Finland
+Z:Lennart Sohlman
+M:3/4
+L:1/8
+Q:1/4=170
+K:Bm
+(GF)|:E2 G2 B2|d4 (cd)|e2 c2 A2|(B=c) (BA) (GF)|
+(EF) (GA) (Bc)|d4 (cd)|e2 c2 A2|[1B4 (GF):|[2B4 B2|
+|:e2 (BG) (Bd)|c2 (BA) G2|F2 (ED) (EF)|(EF) (GA) B2|
+e2 (BG) (Bd)|c2 (BA) G2|F2 (ED) (EF)|[1E4 B2:|[2E4
+
+X:35
+T:Lezginka
+M:2/4
+L:1/8
+Q:1/4=140
+K:C
+Acef | ec A2 | eedc | dB G2 |
+GBde | dB G2 | dGdB | cB A2 ||
+eedc | eedc | eedc | dBG2 |
+ddcB | ddcB | ddcB | cB A2 |]
+
+X:35
+T:UPA
+M:4/4
+L:1/8
+Q:1/4=140
+K:Cmaj
+A2 A2 c3 A | B c B A ^G2 E2 | A3 B c2 B2 | A6 z2 |
+A2 A2 d3 A | c B A ^G A2 E2 | A3 B c2 B2 | (A2 G2) |
+|: c2 e2 g3 ^f | g a g f e d | e f (e d) (c B) | A2 c2 e3 ^d |
+e f e d c B |1 A c e2 d2 | c B (A2 G2) |2 e2 d2 c B | A4 z2 :| 
+
+X:36
+T:Sherlock Holmes
+M:4/4
+L:1/16
+Q:1/4=90%120
+K:Cmaj
+C6-CC E4 G4 | cBAB c4-c2 B4 A2 | GFEF G2GG G2 G4 E2 | 
+E16 | C6-CC E4 G4 | edcd e4-e2 d4 c2 | Bcdc B2d2 B2d2A2c2 |
+Bcdc B2d2 B2d2A2c2 | B2BA G2GF E2G2 c4 | c2d2B2>c2 c8 |
+
+X:37
+T:Baskerville Dog
+M:4/4
+L:1/8
+Q:1/4=90
+K:G
+E | B2 GE B2 G2 | A6 GA | B2 GE dBGA-|A6 z G |
+F3 G/2A/2 B3 G/2F/2 | E6 GA | B2 GE AFDE-|E8 |
+
+X:38
+T:Mother Earth
+C: Within Temptation
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+D2 E F2 EF | ED C3 D2 E | F2 EG FE A2 |
+G D2 E F2 EF | ED C3 G FE | FE D D4-D :|
+
+X:20
+T:Swallowtail Jig
+% D harp
+C:Traditional
+R:Jig
+M:6/8
+L:1/8
+Q:1/4=180
+K:Gmix
+E|:"Dm"FDD ADD|FDD AGF|"C"ECC GCC|cBc GFE|
+"Dm"FDD ADD|FDD A2B|"C"cBc GFE|1"Dm"FDD D2E|2FDD D3:|
+|:"Dm"ABc d2e|d2e dcA|ABc d2e|dcA"C"c3|
+"Dm"ABc d2e|d2e dcB|"C"cBc GFE|"Dm"FDD D3:|
+
+X:21
+T:Cooley's
+% Key E
+N:page 61
+N:heptatonic
+M:C|
+E:7
+Q:1/4=180
+Z:Boston 
+R:reel
+K:Ddor
+C|"Dm"DAAG A2 DA|A2 GA cAGF|"C"(3EDC GC ACGF|\
+(3EDC EG cGEC|"Dm"DAAGA2 DA|
+"Bb"A2 GA cdef|"Gm"gedB cAGE|"C"CDEC "Dm"D3:|\
+fe|"Dm"dA ~A2 defe|dA ~A2 fdcA|
+"C"G2 EG CGEG|~G2 EG cdef|"Dm"dA~A2 defe|\
+"Bb"dA ~A2 cdef|"Gm"gedB cAGE|"C"CDEC D2:|
+
+X:22
+T:Drowsy Maggie
+% Nottingham Music Database
+% Key D
+S:Eric Foxley
+Q:1/4=180
+M:4/4
+L:1/4
+K:Cmaj
+F/2E/2|!segno! "Dm"DA/2D/2 c/2D/2A/2D/2|"Dm"DA/2D/2 "C"G/2E/2C/2E/2|"Dm"DA/2D/2 c/2D/2A/2D/2|\
+"Dm"A/2G/2A/2B/2 "C"c/2A/2G/2E/2|
+"Dm"DA/2D/2 c/2D/2A/2D/2|"Dm"DA/2D/2 "C"G/2E/2C/2E/2|"Dm"DA/2D/2 c/2D/2A/2D/2|\
+"Dm"A/2G/2A/2B/2 "C"c/2G/2E/2G/2|
+"C"ce/2c/2 "G7"Bd/2B/2|"C"c/2d/2e/2f/2 "G7"g/2e/2f/2d/2|\
+"C"ce/2c/2 "G"Bd/2B/2|"F"A/2G/2A/2B/2 "C"c/2G/2E/2G/2|
+"C"ce/2c/2 "G7"Bd/2B/2|"C"c/2d/2e/2f/2 "G7"g/2e/2f/2d/2|\
+"C"g/2e/2"b"f/2d/2 "a"e/2c/2"g"d/2B/2|"F"A/2G/2A/2B/2 "C"c/2G/2\
+P:D.S.
+E/2C/2||
+
+X: 23
+T:Hallelujah
+% Nottingham Music Database
+S:Eric Foxley
+Q:3/8=56
+M:6/4
+L:1/8
+K:C
+G, | G2 G G2 G AAA3 G, | 
+G2 GG GG A2 A A2 A | A2 A A2 A A2 GG F2 | G G8 z2 G, |
+G2 G G2 G A2 A B2 C | cc c3 c cc d3 d | 
+d2 d d2 d e2 e2 ed | dc4 | 
+
+X:24
+T:Greensleeves
+S:(1st/6)
+Q:1/4=120
+L:1/4
+M:6/4
+K:Am
+A|c2de3/2f/2e|d2BG3/2A/2B|c2AA3/2^G/2A|B2^GE2A|\
+c2de3/2f/2e|d2BG3/2A/2B|c3/2B/2A^G3/2^F/2G|A3E3|\
+(g3g2)^f/2e/2|d2BG3/2A/2B|c2AA3/2^G/2A|B2^GE3|\
+(g3g2)^f/2e/2|d2BG3/2A/2B|c2A^G3/2^F/2G|(A3A2)|]
+
+X:25
+T:Oj chyj to kin stoit
+% Bb harp
+Q:1/4=120
+L:1/4
+M:3/4
+K:Cmaj
+E A B | c2 B | A3 | E A B |
+c2 B | A3 |: A [df] [df] | [d2f2][ce] [Bd] |
+c [ce] [ce] | [c2e2] [Bd] [Ac] | [^GB] [Ac] [Bd] |
+[^G2e2] [Bd] | A3- | A3 :|
+
+X:26
+T:Cheremshyna
+% F harp
+Q:1/4=80
+L:1/8
+M:4/4
+K:Cmaj
+A,A,A, B,C A,CE | G F3-F4 | GGG AGF ED |
+F E3-E4 | DEFD BAFD | F E3-E4 | DDDD GFED |
+E A,3-A,4 | ccc A^G ABA | F D3-D4 |
+BBB ^GFE B,D | D C3-C4 | AA FD A A3 |
+DF EDF E3 | D3 C B,2 E2 | A,4 z4 |
+
+X:27
+T:Oj u gaju pry Dunaju
+%Eb
+Q:1/4=90
+L:1/8
+M:3/4
+K:Cmaj
+A,A, A,2 C2 | EE D2 C2 | B,B, B,2 D2 | D2 C4 |
+A,A, A,2 C2 | EE D2 C2 | B,B, B,2 D2 | D2 (C2D2) |
+|: E2 E2 E2 | EF G2 E2 | DD D2 F2 | F2 E4 |
+A,A, A,2 C2 | EE D2 C2 | B,B, B,2 D2 | D2 C4 :|
+
+X:28
+T:Cancan
+%Eb
+Q:1/4=150
+L:1/8
+M:4/4
+K:Cmaj
+C2C2 DFED | G2G2 GAEF | D2D2 DFED | CcBA GFED |
+C4 DFED | G2G2 GAEF | D2D2 DFED | CGDE C4 |
+
+X:29
+T:Sad Romance
+Q:1/4=100
+L:1/8
+M:3/4
+K:Cmaj
+e2e2e2|e2g4|e2g4|e2e2e2|e2g4|e2d2c2B2G2AB|
+c3B cd|B2G2EG|A3GF2|E4AB|c3B cd|B2G2EG|A6-|A4AB|
+
+X:30
+T:He's a Pirate
+C:F Paddy
+Q:1/4=150
+L:1/8
+M:6/8
+K:Cmaj
+|:z3zEG|A2A2AB|c2c2cd|B2B2AG|GAz2
+EG|A2A2AB|c2c2cd|B2B2AG|A2z2
+EG|A2A2Ac|d2d2de|f2f2ed|eAz2
+A,B,|C2C2D2|EA,z2A,C |1 B,2B,2CA,|B,2z2 |2 B,2B,2CG,|A,3z3 :|
+|: e2e2e2|fezz3|d2d2d2dezz3|e2e2e2|fezz3|d2c2B2|A3z3 :|
+[|zA,B,|C3DE2|D2C2B,2|C2D2E2|D4CD|E3DC2|B,2C2B,2|A,3B,G,2|
+A,4AB|c3de2|d2c2B2|c2d2e2|d4AB|c2d2e2|f2A2d2|c3dB2|A6|]
+[|f6|e2e2e2|edzz3|d6|c6|B2c2B2|A3ABc|
+e3ABc|f3ABc|e2e2e2|edzz3|d6|c6|E^F^GA3|]
+
+
+
+X:31
+T:Crystallize
+% Key F
+Z:2013
+L:1/16
+Q:1/4=150
+M:4/4
+I:linebreak $
+K:Cmaj
+|| d8- d2c2B2c2 | A16- | A16 | A4 B4 c4 e4 | d16- | d4 B2c2 d4 B4 | A8- A4 E4 | 
+C4 A,4 E,4 A,4 | D8- D2C2B,2C2 | A,4 E,4 A,4 C4 | D8- D2C2B,2C2 | E8- E4 C4 | D16- | 
+!wedge!D4 B,2C2 D4 B,4 | A,12 B,4 | C4 E4 A4 B4 | c16- | c4 B2c2 B4 E4 | A8- A2E2C2E2 | 
+A2E2B2E2 c2E2d2E2 | e16- | e4 d2e2 d4 B4 | c16 | c2A2E2C2 A4 c4 | d2B2G2D2 B,2G,2D,2G,2 | 
+B,2G,2D2B,2 G2D2B2G2 | c2A2E2C2 A,2E,2A,2C2 | A,2E,2C2A,2 E2C2A2E2 | A8 E8 | C8 B,8 | 
+A,2E,2A,2B,2 C2A,2E2C2 | A,A,EE AAee a6 z2 | eecc AAEE CCEE AAcc | AAEE BBEE ccEE ddEE | 
+eecc AAEE CCEE AAcc | AAEE BBEE ccEE ddEE |[K:clef=treble] ddBB GGDD B,B,DD GGBB | 
+B,B,G,G, DDB,B, GGDD BBGG | ccBB AAEE AAEE ccAA | A,A,E,E, CCA,A, EECC AAEE | CCA,A, EECC AAEE ccAA | 
+D4 C2B,2 C4 A,4 | D4 A,2D2 (^E2E2) =E4 | E12 G4 | A4 c4 e4 g4 | g4 a4 f4 e4 | d6 d2 e4 ^e4 | 
+e16 | eecc AAEE CCEE AAcc | d4 B4 G4 B4 | ddBB GGDD B,B,DD GGBB | c4 B4 A2E2C2B,2 | C8 A,8 | 
+D4 C2B,2 C4 A,4 | E12 E4 | A8 B8 | c4 B4 (A4 E4) | D8- D2C2B,2C2 | A,4 E,4 A,4 C4 | D8- D2C2B,2(C2 | 
+E12) C4 | D16- | D4 B,2C2 D4 B,2C2 | A,4 E,4 A,4 B,4 | A,2E,2A,2B,2 C2E2 (3DE^E(3GAB | d8 c2(3cBc B2c2 | 
+A2E2C2E2 A4 E2A2 | c4 (3E2A2c2 d4 (3E2A2d2 | e4 g4 e4 g4 | b16 | d'4 b2c'2 d'4 b4 | A16 | 
+a2e2c2A2 E2C2A,2C2 | A16 | A4 AECA, E,F,E,A, CEAd | c6 E2 c2B2 A4- | A4 AECA, E2B2 A4 | 
+A2E2B2E2 c2E2d2E2 | e4 d2e2 d4 B4 | c8 c2A2E2A2 | cAEC A,E,A,C E2A2B2c2 | d2B2G2D2 B,2G,2D,2G,2 | 
+BGDB, DB,GD G2D2B2G2 | c2A2E2C2 A,2E,2A,2B,2 | CA,E,A, ECA,E, E2C2A2E2 | d8- d2c2B2c2 | A4 E4 C4 E4 | 
+d8- d2c2B2c2 | e12 c4 | d6 c2 B4 c2B2 | d8 [cg]8 | z16 | a8 z8 | eecc AAEE CCEE AAcc | 
+AAEE BBEE ccEE ddEE | eecc AAEE CCEE AAcc | AAEE BBEE ccEE ddEE |"^I04" ddBB GGDD B,B,DD GGBB | 
+B,B,G,G, DDB,B, GGDD BBGG | ccBB AAEE AAEE ccAA | A,A,E,E, CCA,A, EECC AAEE | CCA,A, EECC AAEE ccAA | 
+D4 C2B,2 C4 A,4 | D4 A,2D2 (^E2E2) =E4 | E12 G4 | A4 c4 e4 g4 | g4 a4 f4 e4 | d6 d2 e4 ^e4 | 
+e16 |[K:clef=treble] eecc AAEE CCEE AAcc | d4 B4 G4 B4 | ddBB GGDD B,B,DD GGBB | c4 B4 A2E2C2B,2 | 
+C8 A,8 | D4 C2B,2 C4 A,4 | E12 E4 | A8 B8 | c4 B4 (A4 E4) | D8- D2C2B,2C2 | A,4 E,4 A,4 C4 | 
+D8- D2C2B,2(C2 | E12) C4 | D16- | D4 B,2C2 D4 B,2C2 | A,16- | A,16 |] 
+
+X:32
+T:Brothers (Fullmetal Alchemist)
+%: Key F
+C:Ooshima Michiru
+Z:John Kikuchi
+L:1/4
+M:3/4
+I:linebreak $
+K:Cmaj
+|: A, C B,/2C/2 | D2 E | C2 B, | A,3 | A, C B,/2C/2 | D2 G | E2 D | E3 | A, C B,/2C/2 | D2 E | C2 B, | A,2 A, | 
+G,2 A, | B,3/2 C/2 B, | A,3- | A,3 |1 z3 :|2 E3/2 D/2 E || D2 A, | E2 G | D3 | E3/2 D/2 E | D2 A,/2B,/2 | 
+C2 D | B,3 | E3/2 D/2 E | D2 A, | E2 G | D3 | E3/2 D/2 E | ^F2 D | E3- | E2 E | A2 A | G2 D | E3- | 
+E2 E | A3/2 B/2 A | G2 D | E3- | E2 E | D3/2 E/2 D | C2 B, | A,3- | A,2 E | D3/2 E/2 D | C2 B, | A,3- | 
+A, z2 | e3 | _g3/2 e/2 d | c d e | B3 | A e2 | _g3/2 e/2 d | e3- | e z2 | c' b a | b2 g | e3 | 
+g b c' | b c' d'- | d' b a- | a3 | z3 | A c B/2c/2 | d2 e | c2 B | A3 | A c B/2c/2 | d2 g | 
+e2 d | e3 | A c B/2c/2 | d2 e | c2 B | A2 A | G2 A | B2 c/2B/2- | B/2A/2- A2 | z/2 z/2 e3/2 d/2 | e d2 | 
+A e2 | g d2- | d e3/2 d/2 | e d3/2 A/2 | B/2 c2 d/2- | d/2B/2- B2- | B/2 z/2 e3/2 d/2 | e d2 | A e2 | 
+g d2- | d e3/2 d/2 | e ^f2 | d e2- | e e a- | a a g- | g d e- | e2 e | a3/2 b/2 a | 
+g2 d | e3 | e d3/2 e/2 | d c2 | B A2- | A z2 | e d3/2 e/2 | d c2 | B A2- | A z2 | 
+
+X:33
+T:Summer Wine
+%: Key A
+L:1/8
+M:4/4
+Q:1/4=139
+K:Am
+%Ac eA ce Ac|Bc eB ce Bc|Ac eA ce Ac|Bc eB ce Bc|
+z2A2A2B2|c3ed2c2|d2dd- d d2d-|d6z2|
+z2A2A2B2|c3ed2c2|g2gg- gg2g-|g6z2||
+f2f2g2|ag2f-f2f2|e2ee- ee2e-|e4z4|
+z2dd- de2f-|f2ed-d2z2|z4AG2A-A4z4|
+d6cB-|B4BG3|A6z2||
+
+
+X:34
+T:Roundtable Rival
+C:Lindsey Stirling
+Z:Drew Andis
+Z:(not available at the current moment)
+% key D
+L:1/16
+Q:1/4=128
+M:4/4
+I:linebreak $
+K:Cmaj
+A4 e3 A c d c B A2 E A | c2 A c e2 A2 c2 d2 (3c d c B2 | A4 e3 A c d c B A2 E A | 
+c A e c a e b e (3c' d' c' b2 a4 | a4 e'3 a c' d' c' b a2 e a | 
+c'2 a b c'2 d'2 e'2 f'2 (3e' f' e' d'2 | a4 e'3 a c' d' c' b a2 e a | 
+c' d' e' f' e' d' c' b a e c B A2 z2 | 
+
+X:34
+T:Tarantella
+C:Die Irrlichter
+% key F
+L:1/8
+Q:1/4=180
+M:6/8
+K:Cmaj
+[|: z(ed) cdc Bc.B | .A.E.A BAB | cBc dcd| !trill(!e3 !trill)!a (Ped)|
+.c.d.c .B.c.B | .A.E.A BAB | .c2 c dcB | TA3 :|
+(GAB) | .c2 c GA!tenuto!B | .c2 c !>!edc | .B2 B .E2 E | .A2 A
+(GAB) | .c2 c GA!tenuto!B | .c2 c !>!edc | .B2 B .E2 E | .A2 A
+.A2 z P.f2 f | .e2 e de!tenuto!d | .c2 c !>!edc | .B2 B .E2 E | .A2 A
+.f2 f | .e2 e de!tenuto!d | .c2 c !>!edc | .B2 B .E2 E | A6 | 
+
+X:34
+T:The Road Home
+C:John Whelan
+%key F
+L:1/4
+M:C
+Q:1/4=150
+K:Cmaj
+|:A,cBAz2AcABECB,2CA,cBAzf2eedcAB2z:|
+|:eede2fddcBcdeedd2AA,DEF|
+eede2fddcBcA2FA,DEFGA:|
